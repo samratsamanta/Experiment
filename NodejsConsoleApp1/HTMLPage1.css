@@ -1,0 +1,6 @@
+canvas#canvas {
+    position: relative;
+    background-color:rgb(55, 179, 96);
+    width: 100%;
+    height: 100%;
+}
